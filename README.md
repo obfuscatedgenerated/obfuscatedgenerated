@@ -15,7 +15,7 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-| ![Godot icon](https://upload.wikimedia.org/wikipedia/commons/6/6a/Godot_icon.svg) | ![Python icon](https://www.python.org/static/community_logos/python-powered-h.svg) | ![JS icon](https://raw.githubusercontent.com/voodootikigod/logo.js/master/js.png) |
+| <img src="https://upload.wikimedia.org/wikipedia/commons/6/6a/Godot_icon.svg" width="255px" height="255px> | ![Python icon](https://www.python.org/static/community_logos/python-powered-h.svg) | ![JS icon](https://raw.githubusercontent.com/voodootikigod/logo.js/master/js.png) |
 |-----------------------------------------------------------------------------------|------------------------------------------------------------------------------------|-----------------------------------------------------------------------------------|
 
 [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=obfuscatedgenerated&theme=dracula)](https://github.com/anuraghazra/github-readme-stats)
