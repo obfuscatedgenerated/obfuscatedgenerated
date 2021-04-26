@@ -20,4 +20,4 @@ Here are some ideas to get you started:
 
 [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=obfuscatedgenerated&theme=dracula)](https://github.com/anuraghazra/github-readme-stats)
 
-![cat do be typing tho](https://media.giphy.com/media/o0vwzuFwCGAFO/giphy.gif) ![monkey do be typing tho](https://media.giphy.com/media/hrRJ41JB2zlgZiYcCw/giphy.gif)
+![cat do be typing tho](https://media.giphy.com/media/o0vwzuFwCGAFO/giphy.gif) ![monkey do be typing tho](https://media.giphy.com/media/XGqDsE3owV0RO/giphy.gif)
