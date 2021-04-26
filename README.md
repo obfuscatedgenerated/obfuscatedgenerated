@@ -1,6 +1,8 @@
 ### Hi there 👋 
 
-![View count](https://komarev.com/ghpvc/?username=obfuscatedgenerated&color=lightgrey)
+![View count](https://komarev.com/ghpvc/?username=obfuscatedgenerated&color=lightgrey) [![GitHub followers](https://img.shields.io/github/followers/obfuscatedgenerated.svg?style=social&label=Follow&maxAge=2592000)](https://github.com/obfuscatedgenerated?tab=followers)
+
+[![Ryo-ma's github trophy](https://github-profile-trophy.vercel.app/?username=obfuscatedgenerated&row=1)](https://github.com/ryo-ma/github-profile-trophy)
 
 
 | <img src="https://raw.githubusercontent.com/obfuscatedgenerated/obfuscatedgenerated/main/godot.svg" width="55px" height="55px" alt="Godot icon" /> | <img src="https://raw.githubusercontent.com/obfuscatedgenerated/obfuscatedgenerated/main/python.png" width="55px" height="55px" alt="Python icon" /> | <img src="https://raw.githubusercontent.com/obfuscatedgenerated/obfuscatedgenerated/main/js.png" width="55px" height="55px" alt="JavaScript icon" /> | <img src="https://raw.githubusercontent.com/obfuscatedgenerated/obfuscatedgenerated/main/angular.png" width="55px" height="55px" alt="AngularJS icon" /> | <img src="https://raw.githubusercontent.com/obfuscatedgenerated/obfuscatedgenerated/main/html.png" width="55px" height="55px" alt="HTML5 icon" /> | <img src="https://raw.githubusercontent.com/obfuscatedgenerated/obfuscatedgenerated/main/php.png" width="55px" height="55px" alt="PHP icon" /> |
