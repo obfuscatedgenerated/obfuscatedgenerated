@@ -1,4 +1,4 @@
-### Hi there 👋
+### Hi there 👋 ![View count](https://komarev.com/ghpvc/?username=obfuscatedgenerated&color=lightgrey)
 
 <!--
 **obfuscatedgenerated/obfuscatedgenerated** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
