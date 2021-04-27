@@ -1,5 +1,7 @@
 ### Hi there 👋 
 
+[![forthebadge](https://forthebadge.com/images/badges/contains-cat-gifs.svg)](https://forthebadge.com)
+
 ![View count](https://komarev.com/ghpvc/?username=obfuscatedgenerated&color=lightgrey) [![GitHub followers](https://img.shields.io/github/followers/obfuscatedgenerated.svg?style=social&label=Follow&maxAge=2592000)](https://github.com/obfuscatedgenerated?tab=followers)
 
 [![Ryo-ma's github trophy](https://github-profile-trophy.vercel.app/?username=obfuscatedgenerated&row=1)](https://github.com/ryo-ma/github-profile-trophy)
