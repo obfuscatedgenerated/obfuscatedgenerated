@@ -1,6 +1,6 @@
 ### Hi there 👋 
 
-[![forthebadge](https://forthebadge.com/images/badges/contains-cat-gifs.svg)](https://forthebadge.com) [![forthebadge](https://forthebadge.com/images/badges/powered-by-coffee.svg)](https://forthebadge.com)
+[![forthebadge](https://forthebadge.com/images/badges/contains-cat-gifs.svg)](https://forthebadge.com) [![forthebadge](https://forthebadge.com/images/badges/powered-by-coffee.svg)](https://forthebadge.com) [![forthebadge](https://forthebadge.com/images/badges/built-with-love.svg)](https://forthebadge.com)
 
 ![View count](https://komarev.com/ghpvc/?username=obfuscatedgenerated&color=lightgrey) [![GitHub followers](https://img.shields.io/github/followers/obfuscatedgenerated.svg?style=social&label=Follow&maxAge=2592000)](https://github.com/obfuscatedgenerated?tab=followers)
 
