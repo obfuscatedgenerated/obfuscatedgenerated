@@ -1,4 +1,4 @@
-### Hi there 👋 
+![Hi there 👋](https://raw.githubusercontent.com/obfuscatedgenerated/obfuscatedgenerated/main/heythere.png)
 
 [![forthebadge](https://forthebadge.com/images/badges/contains-cat-gifs.svg)](https://forthebadge.com) [![forthebadge](https://forthebadge.com/images/badges/powered-by-coffee.svg)](https://forthebadge.com) [![forthebadge](https://forthebadge.com/images/badges/built-with-love.svg)](https://forthebadge.com)
 
