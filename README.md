@@ -14,4 +14,8 @@
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=obfuscatedgenerated&theme=chartreuse-dark)](https://github.com/anuraghazra/github-readme-stats)
 
+<a href="https://frontend.code-inspector.com/public/user/github/obfuscatedgenerated">
+   <img src="https://code-inspector.com/public/badge/user/github/obfuscatedgenerated?style=light" alt="code inspector badge" />
+</a>
+
 ![cat do be typing tho](https://media.giphy.com/media/o0vwzuFwCGAFO/giphy.gif) ![monkey do be typing tho](https://media.giphy.com/media/XGqDsE3owV0RO/giphy.gif)
