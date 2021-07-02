@@ -25,8 +25,10 @@
 </p>
 <br>
 <br>
+
 | <img src="https://raw.githubusercontent.com/obfuscatedgenerated/obfuscatedgenerated/main/godot.svg" width="55px" height="55px" alt="Godot icon" /> | <img src="https://raw.githubusercontent.com/obfuscatedgenerated/obfuscatedgenerated/main/python.png" width="55px" height="55px" alt="Python icon" /> | <img src="https://raw.githubusercontent.com/obfuscatedgenerated/obfuscatedgenerated/main/js.png" width="55px" height="55px" alt="JavaScript icon" /> | <img src="https://raw.githubusercontent.com/obfuscatedgenerated/obfuscatedgenerated/main/angular.png" width="55px" height="55px" alt="AngularJS icon" /> | <img src="https://raw.githubusercontent.com/obfuscatedgenerated/obfuscatedgenerated/main/html.png" width="55px" height="55px" alt="HTML5 icon" /> | <img src="https://raw.githubusercontent.com/obfuscatedgenerated/obfuscatedgenerated/main/php.png" width="55px" height="55px" alt="PHP icon" /> |
 |-----------------------------------------------------------------------------------|------------------------------------------------------------------------------------|-----------------------------------------------------------------------------------|-----------------------------------------------------------------------------------|-----------------------------------------------------------------------------------|-----------------------------------------------------------------------------------|
+
 <br>
 <br>
 <p align="center">
