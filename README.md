@@ -1,3 +1,4 @@
+<p style="text-align: center;">
 ![Hi there 👋](https://raw.githubusercontent.com/obfuscatedgenerated/obfuscatedgenerated/main/heythere.png)
 
 [![forthebadge](https://forthebadge.com/images/badges/open-source.svg)](https://forthebadge.com) [![forthebadge](https://forthebadge.com/images/badges/powered-by-coffee.svg)](https://forthebadge.com) [![forthebadge](https://forthebadge.com/images/badges/built-with-love.svg)](https://forthebadge.com)
@@ -17,3 +18,4 @@
 <a href="https://frontend.code-inspector.com/public/user/github/obfuscatedgenerated">
    <img src="https://code-inspector.com/public/badge/user/github/obfuscatedgenerated?style=light" alt="code inspector badge" />
 </a>
+</p>
