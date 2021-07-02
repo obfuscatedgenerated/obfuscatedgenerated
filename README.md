@@ -39,8 +39,8 @@
 <br>
 <p align="center">
    <a href="https://github.com/anuraghazra/github-readme-stats">
-      <img alt="Anurag's GitHub Stats Widget for obfuscatedgenerated" src="https://github-readme-stats.vercel.app/api?username=obfuscatedgenerated&theme=dracula" />
-      <img alt="Anurag's GitHub Stats Widget - Top Languages for obfuscatedgenerated" src="https://github-readme-stats.vercel.app/api/top-langs/?username=obfuscatedgenerated&theme=chartreuse-dark" />
+      <img alt="Anurag's GitHub Stats Widget for obfuscatedgenerated" src="https://github-readme-stats.vercel.app/api?username=obfuscatedgenerated&theme=dracula" /><br>
+      <img alt="Anurag's GitHub Stats Widget - Top Languages for obfuscatedgenerated" src="https://github-readme-stats.vercel.app/api/top-langs/?username=obfuscatedgenerated&theme=chartreuse-dark" /><br>
    </a>
    <a href="https://frontend.code-inspector.com/public/user/github/obfuscatedgenerated">
       <img src="https://code-inspector.com/public/badge/user/github/obfuscatedgenerated?style=light" alt="Code Inspector Badge" />
