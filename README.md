@@ -1,8 +1,9 @@
 <p align="center">
    <img alt="Hey There!" src="https://raw.githubusercontent.com/obfuscatedgenerated/obfuscatedgenerated/main/heythere.png" />
 </p>
+
 [![forthebadge](https://forthebadge.com/images/badges/open-source.svg)](https://forthebadge.com) [![forthebadge](https://forthebadge.com/images/badges/powered-by-coffee.svg)](https://forthebadge.com) [![forthebadge](https://forthebadge.com/images/badges/built-with-love.svg)](https://forthebadge.com)
-<p>
+
 ![View count](https://komarev.com/ghpvc/?username=obfuscatedgenerated&color=lightgrey) [![GitHub followers](https://img.shields.io/github/followers/obfuscatedgenerated.svg?style=social&label=Follow&maxAge=2592000)](https://github.com/obfuscatedgenerated?tab=followers)
 
 [![Ryo-ma's github trophy](https://github-profile-trophy.vercel.app/?username=obfuscatedgenerated&row=1)](https://github.com/ryo-ma/github-profile-trophy)
