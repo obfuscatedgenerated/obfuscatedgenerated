@@ -3,7 +3,8 @@
    <img alt="Open Source" src="https://forthebadge.com/images/badges/open-source.svg" />
    <img alt="Powered By Coffee" src="https://forthebadge.com/images/badges/powered-by-coffee.svg" />
    <img alt="Built With Love" src="https://forthebadge.com/images/badges/built-with-love.svg" />
-
+</p>
+<p>
 ![View count](https://komarev.com/ghpvc/?username=obfuscatedgenerated&color=lightgrey) [![GitHub followers](https://img.shields.io/github/followers/obfuscatedgenerated.svg?style=social&label=Follow&maxAge=2592000)](https://github.com/obfuscatedgenerated?tab=followers)
 
 [![Ryo-ma's github trophy](https://github-profile-trophy.vercel.app/?username=obfuscatedgenerated&row=1)](https://github.com/ryo-ma/github-profile-trophy)
