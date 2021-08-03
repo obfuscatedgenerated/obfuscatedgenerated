@@ -13,7 +13,7 @@
 <p align="center">
    <img alt="View Count" src="https://komarev.com/ghpvc/?username=obfuscatedgenerated&color=lightgrey" />
    <a href="https://github.com/obfuscatedgenerated?tab=followers">
-      <img alt="Follow Count" src="https://img.shields.io/github/followers/obfuscatedgenerated.svg?style=social&label=Follow&maxAge=2592000" />
+      <img alt="Follow Count" src="https://img.shields.io/github/followers/obfuscatedgenerated.svg?style=social&label=Follow&maxAge=2592000&version=1" />
    </a>
 </p>
 <br>
