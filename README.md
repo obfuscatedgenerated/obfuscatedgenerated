@@ -1,3 +1,4 @@
+<b align="center">PRO TIP: Try pressing . on a repo!</b>
 <p align="center">
    <img alt="Hey There!" src="https://raw.githubusercontent.com/obfuscatedgenerated/obfuscatedgenerated/main/heythere.png" />
 </p>
