@@ -33,7 +33,7 @@
       <th><img src="https://raw.githubusercontent.com/obfuscatedgenerated/obfuscatedgenerated/main/js.png" width="55px" height="55px" alt="JavaScript icon" /></th>
       <th><img src="https://raw.githubusercontent.com/obfuscatedgenerated/obfuscatedgenerated/main/angular.png" width="55px" height="55px" alt="AngularJS icon" /></th>
       <th><img src="https://raw.githubusercontent.com/obfuscatedgenerated/obfuscatedgenerated/main/html.png" width="55px" height="55px" alt="HTML5 icon" /></th>
-      <th><img src="https://raw.githubusercontent.com/obfuscatedgenerated/obfuscatedgenerated/main/php.png" width="55px" height="55px" alt="PHP icon" /></th>
+      <th><img src="https://raw.githubusercontent.com/obfuscatedgenerated/obfuscatedgenerated/main/java.png" width="55px" height="55px" alt="Java icon" /></th>
    </tr>
 </table>
 <br>
