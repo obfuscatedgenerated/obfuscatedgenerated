@@ -43,7 +43,7 @@
       <img alt="Anurag's GitHub Stats Widget for obfuscatedgenerated" src="https://github-readme-stats.vercel.app/api?username=obfuscatedgenerated&theme=dracula" /><br><br>
       <img alt="Anurag's GitHub Stats Widget - Top Languages for obfuscatedgenerated" src="https://github-readme-stats.vercel.app/api/top-langs/?username=obfuscatedgenerated&theme=chartreuse-dark" /><br><br>
    </a>
-   <a href="https://frontend.code-inspector.com/public/user/github/obfuscatedgenerated">
-      <img src="https://code-inspector.com/public/badge/user/github/obfuscatedgenerated?style=light" alt="Code Inspector Badge" />
-   </a>
+<a href="https://app.codiga.io/public/user/github/obfuscatedgenerated">
+   <img src="https://api.codiga.io/public/badge/user/github/obfuscatedgenerated?style=light" alt="codiga badge" />
+</a>
 </p>
