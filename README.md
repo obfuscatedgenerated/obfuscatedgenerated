@@ -1,7 +1,4 @@
 <p align="center"><b>PRO TIP: Try pressing . on a repo!</b></p>
-<p align="center">
-   <img alt="Hey There!" src="https://raw.githubusercontent.com/obfuscatedgenerated/obfuscatedgenerated/main/heythere.png" />
-</p>
 <br>
 <br>
 <p align="center">
