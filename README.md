@@ -30,7 +30,7 @@
       <th><img src="https://raw.githubusercontent.com/obfuscatedgenerated/obfuscatedgenerated/main/html.png" width="55px" height="55px" alt="HTML5 icon" /></th>
       <th><img src="https://raw.githubusercontent.com/obfuscatedgenerated/obfuscatedgenerated/main/js.png" width="55px" height="55px" alt="JavaScript icon" /></th>
       <th><img src="https://raw.githubusercontent.com/obfuscatedgenerated/obfuscatedgenerated/main/java.png" width="55px" height="55px" alt="Java icon" /></th>
-      <th><img src="https://raw.githubusercontent.com/obfuscatedgenerated/obfuscatedgenerated/main/angular.png" width="55px" height="55px" alt="PowerShell icon" /></th>
+      <th><img src="https://raw.githubusercontent.com/obfuscatedgenerated/obfuscatedgenerated/main/powershell.png" width="55px" height="55px" alt="PowerShell icon" /></th>
    </tr>
 </table>
 <br>
