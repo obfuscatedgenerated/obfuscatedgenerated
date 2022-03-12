@@ -1,6 +1,6 @@
 <p align="center"><b>PRO TIP: Try pressing . on a repo!</b></p>
 <br>
-<p align="center"><img alt="Typing SVG" src="https://readme-typing-svg.herokuapp.com/?color=00FF00&vCenter=true&lines=Hi+There%21%3BI%27m+Ollie%2E%3BWelcome+to+my+GitHub+profile%21" /></p>
+<p align="center"><img alt="Typing SVG" src="https://readme-typing-svg.herokuapp.com/?color=00FF00&vCenter=true&center=true&lines=Hi+There%21%3BI%27m+Ollie%2E%3BWelcome+to+my+GitHub+profile%21" /></p>
 <br>
 <p align="center">
    <img alt="Open Source" src="https://forthebadge.com/images/badges/open-source.svg" />
