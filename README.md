@@ -1,5 +1,6 @@
 <p align="center"><b>PRO TIP: Try pressing . on a repo!</b></p>
 <br>
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?color=00FF00&vCenter=true&lines=Hi+There!;I'm+Ollie.;Welcome+to+my+GitHub+profile!)](https://git.io/typing-svg)
 <br>
 <p align="center">
    <img alt="Open Source" src="https://forthebadge.com/images/badges/open-source.svg" />
