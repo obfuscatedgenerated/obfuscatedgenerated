@@ -17,15 +17,14 @@ jobs:
           token: ${{ secrets.METRICS_TOKEN }}
           
           base: activity, community, repositories, metadata
-          config_order: isocalendar, lines, habits, licenses, reactions, music, achievements
+          config_order: isocalendar, lines, habits, reactions, music, achievements
                     
           plugin_isocalendar: yes
           
           plugin_lines: yes
                     
           plugin_habits: yes
-          
-          plugin_licenses: yes
+        
 
           plugin_reactions: yes
           
