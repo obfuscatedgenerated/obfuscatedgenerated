@@ -16,7 +16,6 @@ jobs:
         with:
           token: ${{ secrets.METRICS_TOKEN }}
           
-          template: terminal
           base: activity, community, repositories, metadata
           config_order: isocalendar, lines, habits, licenses, reactions, music, achievements
                     
