@@ -1,8 +1,8 @@
-<svg xmlns="http://www.w3.org/2000/svg" width="480" height="1584" class="">
+<svg xmlns="http://www.w3.org/2000/svg" width="480" height="1982" class="">
     <defs>
         <style/>
     </defs>
-    <style>@keyframes animation-gauge{0%{stroke-dasharray:0 329}}@keyframes animation-rainbow{0%,to{color:#7f00ff;fill:#7f00ff}14%{color:#a933ff;fill:#a933ff}29%{color:#007fff;fill:#007fff}43%{color:#00ff7f;fill:#00ff7f}57%{color:#ff0;fill:#ff0}71%{color:#ff7f00;fill:#ff7f00}86%{color:red;fill:red}}svg{font-family:-apple-system,BlinkMacSystemFont,Segoe UI,Helvetica,Arial,sans-serif,Apple Color Emoji,Segoe UI Emoji;color:#777}h2,h3{margin:8px 0 2px;padding:0;color:#0366d6;font-weight:400}.gauge text,h2 svg,h3 svg{fill:currentColor}h2{font-size:16px}h3,svg{font-size:14px}.h-details{margin:0 4px;padding-top:4px;font-size:.8rem}section&gt;.field{margin-left:5px;margin-right:5px}.field{display:flex;align-items:center;margin-bottom:2px;white-space:nowrap}.field.wrap,.row{flex-wrap:wrap}.field svg{margin:0 8px;fill:#959da5;flex-shrink:0}.row{display:flex}.row section{flex:1 1 0}.column,footer{display:flex;flex-direction:column}.column{align-items:center}#metrics-end,.fill-width{width:100%}.calendar.field{margin:4px 0 4px 7px}.calendar .day{outline:1px solid rgba(27,31,35,.04);outline-offset:-1px}.habits .facts{margin:0;list-style-type:none;padding-left:37px}.chartist .ct-post{fill:rgba(127,127,127,.8)!important;color:rgba(127,127,127,.8)!important;font-size:9px;text-anchor:middle}footer{margin-top:8px;font-size:10px;font-style:italic;color:#666;text-align:right;justify-content:flex-end;padding:0 4px}.categories,.category{display:flex;align-items:center}.categories{justify-content:space-around;margin-top:4px}.category{flex-direction:column;flex:1 1 0}.gauge{stroke-linecap:round;fill:none}.achievement .gauge.info,.gauge.info{color:#58a6ff}.gauge-arc,.gauge-base{stroke:currentColor;stroke-width:10}.gauge-base{stroke-opacity:.2}.gauge-arc{fill:none;stroke-dashoffset:0;animation-delay:250ms;animation:animation-gauge 1s ease forwards}.gauge text{font-size:40px;font-family:monospace;text-anchor:middle;font-weight:600}.gauge .title{font-size:18px;color:#777}.tracklist{display:flex;flex-direction:column;align-items:flex-start;margin-left:28px;margin-top:4px;width:100%}.track{display:flex;align-items:center;justify-content:center;margin-bottom:4px}.track img{margin:0 10px;border-radius:7px;flex-shrink:0}.track .artist,.track .name{width:387px;white-space:nowrap;overflow:hidden;text-overflow:ellipsis}.track .name{font-size:14px;line-height:14px;height:14px;font-weight:600}.track .artist{font-size:12px;color:#666}.track .infos{flex-grow:1}svg.calendar{margin-left:13px;margin-top:4px}svg.calendar text{font-size:18px;fill:currentColor}.added{color:#3fb950}.achievement{display:flex;margin:4px 0}.achievement .icon{margin:0 4px;width:44px;height:44px}.achievement .text{font-size:12px;color:#666}.achievement .title{font-size:14px;color:#58a6ff}.achievement.x .title{color:#666}.achievement.x .gauge.info{color:#b0b0b0}.achievement.b .title{color:#9d8fff}.achievement.b .gauge.info{color:#9e91ff}.achievement.a .title{color:#d79533}.achievement.a .gauge.info{color:#e7bd69}.achievement.s .gauge.info,.achievement.s .title{color:#eb355e}.achievement.secret .title{color:#ff76cd}.achievement.secret .gauge.info{color:#ff79d1}.achievement .gh{border:1px solid currentColor;border-radius:16px;font-size:10px;padding:0 5px;white-space:nowrap}.achievement .gauge-arc,.achievement .gauge-base{stroke-width:6}code,span.code{background-color:#7777771f;padding:1px 5px;font-size:80%;border-radius:6px;color:#777;font-family:SFMono-Regular,Consolas,Liberation Mono,Menlo,monospace}code{display:inline-block}span.code{margin:0 4px -3px}:root{--color-calendar-graph-day-bg:#ebedf0;--color-calendar-graph-day-border:rgba(27,31,35,0.06);--color-calendar-graph-day-L1-bg:#9be9a8;--color-calendar-graph-day-L2-bg:#40c463;--color-calendar-graph-day-L3-bg:#30a14e;--color-calendar-graph-day-L4-bg:#216e39;--color-calendar-halloween-graph-day-L1-bg:#ffee4a;--color-calendar-halloween-graph-day-L2-bg:#ffc501;--color-calendar-halloween-graph-day-L3-bg:#fe9600;--color-calendar-halloween-graph-day-L4-bg:#03001c;--color-calendar-graph-day-L4-border:rgba(27,31,35,0.06);--color-calendar-graph-day-L3-border:rgba(27,31,35,0.06);--color-calendar-graph-day-L2-border:rgba(27,31,35,0.06);--color-calendar-graph-day-L1-border:rgba(27,31,35,0.06)}</style>
+    <style>@keyframes animation-gauge{0%{stroke-dasharray:0 329}}@keyframes animation-rainbow{0%,to{color:#7f00ff;fill:#7f00ff}14%{color:#a933ff;fill:#a933ff}29%{color:#007fff;fill:#007fff}43%{color:#00ff7f;fill:#00ff7f}57%{color:#ff0;fill:#ff0}71%{color:#ff7f00;fill:#ff7f00}86%{color:red;fill:red}}svg{font-family:-apple-system,BlinkMacSystemFont,Segoe UI,Helvetica,Arial,sans-serif,Apple Color Emoji,Segoe UI Emoji;color:#777}h2,h3{margin:8px 0 2px;padding:0;color:#0366d6;font-weight:400}.gauge text,h2 svg,h3 svg{fill:currentColor}h2{font-size:16px}h3,svg{font-size:14px}.h-details{margin:0 4px;padding-top:4px;font-size:.8rem}section&gt;.field{margin-left:5px;margin-right:5px}.field{display:flex;align-items:center;margin-bottom:2px;white-space:nowrap}.field.wrap,.row{flex-wrap:wrap}.field svg{margin:0 8px;fill:#959da5;flex-shrink:0}.row{display:flex}.row section{flex:1 1 0}.column,footer{display:flex;flex-direction:column}.column{align-items:center}#metrics-end,.fill-width{width:100%}.margin-bottom{margin-bottom:16px}.margin-lr-auto{margin-left:auto;margin-right:auto}.calendar.field{margin:4px 0 4px 7px}.calendar .day{outline:1px solid rgba(27,31,35,.04);outline-offset:-1px}.habits .facts{margin:0;list-style-type:none;padding-left:37px}.chartist .ct-post{fill:rgba(127,127,127,.8)!important;color:rgba(127,127,127,.8)!important;font-size:9px;text-anchor:middle}footer{margin-top:8px;font-size:10px;font-style:italic;color:#666;text-align:right;justify-content:flex-end;padding:0 4px}.categories,.category{display:flex;align-items:center}.categories{justify-content:space-around;margin-top:4px}.category{flex-direction:column;flex:1 1 0}.gauge{stroke-linecap:round;fill:none}.achievement .gauge.info,.gauge.info{color:#58a6ff}.gauge-arc,.gauge-base{stroke:currentColor;stroke-width:10}.gauge-base{stroke-opacity:.2}.gauge-arc{fill:none;stroke-dashoffset:0;animation-delay:250ms;animation:animation-gauge 1s ease forwards}.gauge text{font-size:40px;font-family:monospace;text-anchor:middle;font-weight:600}.gauge .title{font-size:18px;color:#777}.tracklist{display:flex;flex-direction:column;align-items:flex-start;margin-left:28px;margin-top:4px;width:100%}.track{display:flex;align-items:center;justify-content:center;margin-bottom:4px}.track img{margin:0 10px;border-radius:7px;flex-shrink:0}.track .artist,.track .name{width:387px;white-space:nowrap;overflow:hidden;text-overflow:ellipsis}.track .name{font-size:14px;line-height:14px;height:14px;font-weight:600}.track .artist{font-size:12px;color:#666}.track .infos{flex-grow:1}svg.calendar{margin-left:13px;margin-top:4px}svg.calendar text{font-size:18px;fill:currentColor}.achievement{display:flex;margin:4px 0}.achievement .icon{margin:0 4px;width:44px;height:44px}.achievement .text{font-size:12px;color:#666}.achievement .title{font-size:14px;color:#58a6ff}.achievement.x .title{color:#666}.achievement.x .gauge.info{color:#b0b0b0}.achievement.b .title{color:#9d8fff}.achievement.b .gauge.info{color:#9e91ff}.achievement.a .title{color:#d79533}.achievement.a .gauge.info{color:#e7bd69}.achievement.s .gauge.info,.achievement.s .title{color:#eb355e}.achievement.secret .title{color:#ff76cd}.achievement.secret .gauge.info{color:#ff79d1}.achievement .gh{border:1px solid currentColor;border-radius:16px;font-size:10px;padding:0 5px;white-space:nowrap}.achievement .gauge-arc,.achievement .gauge-base{stroke-width:6}code,span.code{background-color:#7777771f;padding:1px 5px;font-size:80%;border-radius:6px;color:#777;font-family:SFMono-Regular,Consolas,Liberation Mono,Menlo,monospace}code{display:inline-block}span.code{margin:0 4px -3px}:root{--color-calendar-graph-day-bg:#ebedf0;--color-calendar-graph-day-border:rgba(27,31,35,0.06);--color-calendar-graph-day-L1-bg:#9be9a8;--color-calendar-graph-day-L2-bg:#40c463;--color-calendar-graph-day-L3-bg:#30a14e;--color-calendar-graph-day-L4-bg:#216e39;--color-calendar-halloween-graph-day-L1-bg:#ffee4a;--color-calendar-halloween-graph-day-L2-bg:#ffc501;--color-calendar-halloween-graph-day-L3-bg:#fe9600;--color-calendar-halloween-graph-day-L4-bg:#03001c;--color-calendar-graph-day-L4-border:rgba(27,31,35,0.06);--color-calendar-graph-day-L3-border:rgba(27,31,35,0.06);--color-calendar-graph-day-L2-border:rgba(27,31,35,0.06);--color-calendar-graph-day-L1-border:rgba(27,31,35,0.06)}</style>
     <style/>
     <foreignObject x="0" y="0" width="100%" height="100%">
         <div xmlns="http://www.w3.org/1999/xhtml" xmlns:xlink="http://www.w3.org/1999/xlink" class="items-wrapper">
@@ -1058,13 +1058,126 @@
                     </g>
                 </svg>
             </section>
+            <section>
+                <h2 class="field">
+                    <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16">
+                        <path fill-rule="evenodd" d="M2.75 1.5a.25.25 0 00-.25.25v12.5c0 .138.112.25.25.25h10.5a.25.25 0 00.25-.25V4.664a.25.25 0 00-.073-.177l-2.914-2.914a.25.25 0 00-.177-.073H2.75zM1 1.75C1 .784 1.784 0 2.75 0h7.586c.464 0 .909.184 1.237.513l2.914 2.914c.329.328.513.773.513 1.237v9.586A1.75 1.75 0 0113.25 16H2.75A1.75 1.75 0 011 14.25V1.75zm7 1.5a.75.75 0 01.75.75v1.5h1.5a.75.75 0 010 1.5h-1.5v1.5a.75.75 0 01-1.5 0V7h-1.5a.75.75 0 010-1.5h1.5V4A.75.75 0 018 3.25zm-3 8a.75.75 0 01.75-.75h4.5a.75.75 0 010 1.5h-4.5a.75.75 0 01-.75-.75z"/>
+                    </svg>
+                    Lines of code pushed
+                </h2>
+                <div class="row margin-bottom">
+                    <h3 class="margin-lr-auto">Diff history</h3>
+                    <svg xmlns="http://www.w3.org/2000/svg" width="480" height="315">
+                        <g transform="translate(0,276)" fill="none" font-size="10" font-family="sans-serif" text-anchor="middle">
+                            <path class="domain" stroke="currentColor" d="M39.5,6V0.5H441.5V6"/>
+                            <g class="tick" opacity="1" transform="translate(44.5672268907563,0)">
+                                <line stroke="currentColor" y2="6"/>
+                                <text fill="currentColor" y="9" dy="0.71em" transform="translate(-5,5) rotate(-45)" style="text-anchor: end; font-size: 20;">May</text>
+                            </g>
+                            <g class="tick" opacity="1" transform="translate(70.74789915966386,0)">
+                                <line stroke="currentColor" y2="6"/>
+                                <text fill="currentColor" y="9" dy="0.71em" transform="translate(-5,5) rotate(-45)" style="text-anchor: end; font-size: 20;">June</text>
+                            </g>
+                            <g class="tick" opacity="1" transform="translate(96.08403361344537,0)">
+                                <line stroke="currentColor" y2="6"/>
+                                <text fill="currentColor" y="9" dy="0.71em" transform="translate(-5,5) rotate(-45)" style="text-anchor: end; font-size: 20;">July</text>
+                            </g>
+                            <g class="tick" opacity="1" transform="translate(122.26470588235294,0)">
+                                <line stroke="currentColor" y2="6"/>
+                                <text fill="currentColor" y="9" dy="0.71em" transform="translate(-5,5) rotate(-45)" style="text-anchor: end; font-size: 20;">August</text>
+                            </g>
+                            <g class="tick" opacity="1" transform="translate(148.44537815126048,0)">
+                                <line stroke="currentColor" y2="6"/>
+                                <text fill="currentColor" y="9" dy="0.71em" transform="translate(-5,5) rotate(-45)" style="text-anchor: end; font-size: 20;">September</text>
+                            </g>
+                            <g class="tick" opacity="1" transform="translate(173.78151260504202,0)">
+                                <line stroke="currentColor" y2="6"/>
+                                <text fill="currentColor" y="9" dy="0.71em" transform="translate(-5,5) rotate(-45)" style="text-anchor: end; font-size: 20;">October</text>
+                            </g>
+                            <g class="tick" opacity="1" transform="translate(199.96218487394958,0)">
+                                <line stroke="currentColor" y2="6"/>
+                                <text fill="currentColor" y="9" dy="0.71em" transform="translate(-5,5) rotate(-45)" style="text-anchor: end; font-size: 20;">November</text>
+                            </g>
+                            <g class="tick" opacity="1" transform="translate(225.29831932773112,0)">
+                                <line stroke="currentColor" y2="6"/>
+                                <text fill="currentColor" y="9" dy="0.71em" transform="translate(-5,5) rotate(-45)" style="text-anchor: end; font-size: 20;">December</text>
+                            </g>
+                            <g class="tick" opacity="1" transform="translate(251.47899159663868,0)">
+                                <line stroke="currentColor" y2="6"/>
+                                <text fill="currentColor" y="9" dy="0.71em" transform="translate(-5,5) rotate(-45)" style="text-anchor: end; font-size: 20;">2022</text>
+                            </g>
+                            <g class="tick" opacity="1" transform="translate(277.6596638655462,0)">
+                                <line stroke="currentColor" y2="6"/>
+                                <text fill="currentColor" y="9" dy="0.71em" transform="translate(-5,5) rotate(-45)" style="text-anchor: end; font-size: 20;">February</text>
+                            </g>
+                            <g class="tick" opacity="1" transform="translate(301.3067226890756,0)">
+                                <line stroke="currentColor" y2="6"/>
+                                <text fill="currentColor" y="9" dy="0.71em" transform="translate(-5,5) rotate(-45)" style="text-anchor: end; font-size: 20;">March</text>
+                            </g>
+                            <g class="tick" opacity="1" transform="translate(327.4873949579832,0)">
+                                <line stroke="currentColor" y2="6"/>
+                                <text fill="currentColor" y="9" dy="0.71em" transform="translate(-5,5) rotate(-45)" style="text-anchor: end; font-size: 20;">April</text>
+                            </g>
+                            <g class="tick" opacity="1" transform="translate(352.82352941176475,0)">
+                                <line stroke="currentColor" y2="6"/>
+                                <text fill="currentColor" y="9" dy="0.71em" transform="translate(-5,5) rotate(-45)" style="text-anchor: end; font-size: 20;">May</text>
+                            </g>
+                            <g class="tick" opacity="1" transform="translate(379.0042016806723,0)">
+                                <line stroke="currentColor" y2="6"/>
+                                <text fill="currentColor" y="9" dy="0.71em" transform="translate(-5,5) rotate(-45)" style="text-anchor: end; font-size: 20;">June</text>
+                            </g>
+                            <g class="tick" opacity="1" transform="translate(404.3403361344538,0)">
+                                <line stroke="currentColor" y2="6"/>
+                                <text fill="currentColor" y="9" dy="0.71em" transform="translate(-5,5) rotate(-45)" style="text-anchor: end; font-size: 20;">July</text>
+                            </g>
+                            <g class="tick" opacity="1" transform="translate(430.52100840336135,0)">
+                                <line stroke="currentColor" y2="6"/>
+                                <text fill="currentColor" y="9" dy="0.71em" transform="translate(-5,5) rotate(-45)" style="text-anchor: end; font-size: 20;">August</text>
+                            </g>
+                        </g>
+                        <g transform="translate(39,0)" fill="none" font-size="10" font-family="sans-serif" text-anchor="end">
+                            <path class="domain" stroke="currentColor" d="M-6,5.5H0.5V276.5H-6"/>
+                            <g class="tick" opacity="1" transform="translate(0,27.47978418592181)">
+                                <line stroke="currentColor" x2="-6"/>
+                                <text fill="currentColor" x="-9" dy="0.32em" style="font-size: 20;">300k</text>
+                            </g>
+                            <g class="tick" opacity="1" transform="translate(0,65.31985612394787)">
+                                <line stroke="currentColor" x2="-6"/>
+                                <text fill="currentColor" x="-9" dy="0.32em" style="font-size: 20;">200k</text>
+                            </g>
+                            <g class="tick" opacity="1" transform="translate(0,103.15992806197393)">
+                                <line stroke="currentColor" x2="-6"/>
+                                <text fill="currentColor" x="-9" dy="0.32em" style="font-size: 20;">100k</text>
+                            </g>
+                            <g class="tick" opacity="1" transform="translate(0,141)">
+                                <line stroke="currentColor" x2="-6"/>
+                                <text fill="currentColor" x="-9" dy="0.32em" style="font-size: 20;">0.0</text>
+                            </g>
+                            <g class="tick" opacity="1" transform="translate(0,178.84007193802606)">
+                                <line stroke="currentColor" x2="-6"/>
+                                <text fill="currentColor" x="-9" dy="0.32em" style="font-size: 20;">−100k</text>
+                            </g>
+                            <g class="tick" opacity="1" transform="translate(0,216.68014387605214)">
+                                <line stroke="currentColor" x2="-6"/>
+                                <text fill="currentColor" x="-9" dy="0.32em" style="font-size: 20;">−200k</text>
+                            </g>
+                            <g class="tick" opacity="1" transform="translate(0,254.5202158140782)">
+                                <line stroke="currentColor" x2="-6"/>
+                                <text fill="currentColor" x="-9" dy="0.32em" style="font-size: 20;">−300k</text>
+                            </g>
+                        </g>
+                        <path d="M39,140.5L44.911764705882355,140.5L50.8235294117647,140.5L68.55882352941177,140.5L74.47058823529412,140.5L80.38235294117646,140.5L86.29411764705883,140.5L92.20588235294117,140.5L98.11764705882354,140.5L104.02941176470588,140.5L109.94117647058823,140.5L115.85294117647058,140.5L121.76470588235294,140.5L133.58823529411765,140.5L139.5,140.5L145.41176470588235,140.5L151.3235294117647,140.5L157.23529411764707,140.5L163.14705882352942,140.5L169.05882352941177,140.5L174.97058823529412,140.5L180.88235294117646,140.5L186.79411764705884,140.5L192.70588235294116,140.5L198.61764705882354,140.5L204.52941176470588,140.5L210.44117647058823,140.5L216.35294117647058,140.5L222.26470588235293,140.5L228.1764705882353,140.5L234.08823529411762,140.5L240,140.5L245.91176470588235,140.5L251.8235294117647,140.5L257.7352941176471,140.5L263.6470588235294,140.5L269.55882352941177,140.5L275.47058823529414,140.5L281.38235294117646,140.5L287.29411764705884,140.5L293.20588235294116,140.5L299.11764705882354,140.5L305.02941176470586,140.5L310.94117647058823,140.5L316.8529411764706,140.5L322.7647058823529,140.5L328.67647058823525,140.5L334.5882352941177,140.5L340.5,140.5L346.4117647058823,140.5L352.32352941176475,140.5L358.2352941176471,140.5L364.1470588235294,140.5L370.05882352941177,140.5L375.97058823529414,140.5L381.88235294117646,140.5L387.79411764705884,140.5L393.70588235294116,140.5L399.61764705882354,140.5L405.52941176470586,140.5L411.44117647058823,140.5L417.3529411764706,140.5L423.2647058823529,140.5L429.17647058823525,140.5L435.0882352941177,140.5L441,140.5L441,140.49659439352558L435.0882352941177,21.908079344068174L429.17647058823525,140.4178870438945L423.2647058823529,137.7471347665086L417.3529411764706,117.64421814871287L411.44117647058823,140.49659439352558L405.52941176470586,140.0898136201918L399.61764705882354,139.09386292678295L393.70588235294116,140.49167518417363L387.79411764705884,140.0765695950135L381.88235294117646,140.20409063744464L375.97058823529414,140.3951830007317L370.05882352941177,139.53280776126405L364.1470588235294,140.1496009338539L358.2352941176471,140.24003870578576L352.32352941176475,136.52906285082355L346.4117647058823,140.48297196762792L340.5,140.13446490507866L334.5882352941177,139.83401473389074L328.67647058823525,137.05352624788458L322.7647058823529,131.19588311187815L316.8529411764706,140.15338494104765L310.94117647058823,91.46683478270585L305.02941176470586,140.3297196762789L299.11764705882354,140.23549789715318L293.20588235294116,137.33959719173606L287.29411764705884,139.77044341303485L281.38235294117646,137.58404405645572L275.47058823529414,70.93897415704608L269.55882352941177,140.33993649570215L263.6470588235294,140.27220276693308L257.7352941176471,140.0534871511313L251.8235294117647,140.46178152734257L245.91176470588235,128.1891109956826L240,139.7617401964891L234.08823529411762,139.66600481448592L228.1764705882353,138.90617616997034L222.26470588235293,139.92785811229703L216.35294117647058,140.14468172450194L210.44117647058823,139.48967007925472L204.52941176470588,139.15932625123574L198.61764705882354,140.4099406287875L192.70588235294116,139.22251917137226L186.79411764705884,139.38901548789957L180.88235294117646,139.53205095982528L174.97058823529412,140.03494551588167L169.05882352941177,130.1117650508537L163.14705882352942,135.4237543495138L157.23529411764707,139.3379313907832L151.3235294117647,140.4943239892093L145.41176470588235,139.14683902749616L139.5,139.87601721374193L133.58823529411765,140.4984863971225L121.76470588235294,140.49167518417363L115.85294117647058,140.4689711410108L109.94117647058823,139.40642192099105L104.02941176470588,139.8086618856923L98.11764705882354,140.09624643242122L92.20588235294117,140.41258943382317L86.29411764705883,140.4859991733829L80.38235294117646,139.79049865116198L74.47058823529412,118.75293225649703L68.55882352941177,123.3315809609982L50.8235294117647,140.38307417771148L44.911764705882355,121.19777930441289L39,82.19677395932823Z" fill="rgb(63, 185, 80)"/>
+                        <path d="M39,140.5L44.911764705882355,140.5L50.8235294117647,140.5L68.55882352941177,140.5L74.47058823529412,140.5L80.38235294117646,140.5L86.29411764705883,140.5L92.20588235294117,140.5L98.11764705882354,140.5L104.02941176470588,140.5L109.94117647058823,140.5L115.85294117647058,140.5L121.76470588235294,140.5L133.58823529411765,140.5L139.5,140.5L145.41176470588235,140.5L151.3235294117647,140.5L157.23529411764707,140.5L163.14705882352942,140.5L169.05882352941177,140.5L174.97058823529412,140.5L180.88235294117646,140.5L186.79411764705884,140.5L192.70588235294116,140.5L198.61764705882354,140.5L204.52941176470588,140.5L210.44117647058823,140.5L216.35294117647058,140.5L222.26470588235293,140.5L228.1764705882353,140.5L234.08823529411762,140.5L240,140.5L245.91176470588235,140.5L251.8235294117647,140.5L257.7352941176471,140.5L263.6470588235294,140.5L269.55882352941177,140.5L275.47058823529414,140.5L281.38235294117646,140.5L287.29411764705884,140.5L293.20588235294116,140.5L299.11764705882354,140.5L305.02941176470586,140.5L310.94117647058823,140.5L316.8529411764706,140.5L322.7647058823529,140.5L328.67647058823525,140.5L334.5882352941177,140.5L340.5,140.5L346.4117647058823,140.5L352.32352941176475,140.5L358.2352941176471,140.5L364.1470588235294,140.5L370.05882352941177,140.5L375.97058823529414,140.5L381.88235294117646,140.5L387.79411764705884,140.5L393.70588235294116,140.5L399.61764705882354,140.5L405.52941176470586,140.5L411.44117647058823,140.5L417.3529411764706,140.5L423.2647058823529,140.5L429.17647058823525,140.5L435.0882352941177,140.5L441,140.5L441,140.5018920035969L435.0882352941177,276L429.17647058823525,140.50681121294886L423.2647058823529,140.6570362985428L417.3529411764706,159.10936897840182L411.44117647058823,140.50227040431628L405.52941176470586,140.749744474791L399.61764705882354,140.78834134816776L393.70588235294116,140.50832481582637L387.79411764705884,140.53594806834116L381.88235294117646,140.537840071938L375.97058823529414,140.52762325251476L370.05882352941177,140.50454080863258L364.1470588235294,140.56924733164655L358.2352941176471,140.56546332445276L352.32352941176475,143.32211256513796L346.4117647058823,140.51664963165274L340.5,140.64379227336448L334.5882352941177,140.70017398055217L328.67647058823525,141.82742972358594L322.7647058823529,140.51778483381088L316.8529411764706,140.564706523014L310.94117647058823,159.3367878107494L305.02941176470586,140.5609225158202L299.11764705882354,140.53367766402485L293.20588235294116,143.5041233111599L287.29411764705884,140.66006350429788L281.38235294117646,140.71114760141415L275.47058823529414,142.03479331780633L269.55882352941177,140.59762738560008L263.6470588235294,140.55486810431015L257.7352941176471,140.7262836301894L251.8235294117647,140.51892003596902L245.91176470588235,140.54616488776438L240,140.53708327049924L234.08823529411762,140.66271230933353L228.1764705882353,140.57416654099853L222.26470588235293,140.82996542729958L216.35294117647058,140.63168345034435L210.44117647058823,140.5499488949582L204.52941176470588,140.61352021581408L198.61764705882354,140.50908161726514L192.70588235294116,140.51210882302016L186.79411764705884,141.45356981283825L180.88235294117646,141.50351870779645L174.97058823529412,140.57000413308532L169.05882352941177,148.70940360695474L163.14705882352942,143.80041107443463L157.23529411764707,141.73018073870523L151.3235294117647,140.51097362086202L145.41176470588235,140.57795054819232L139.5,140.80991018917243L133.58823529411765,140.5018920035969L121.76470588235294,140.64454907480328L115.85294117647058,140.5287584546729L109.94117647058823,141.61287651569737L104.02941176470588,140.5056760107907L98.11764705882354,140.61541221941098L92.20588235294117,140.55297610071324L86.29411764705883,140.51702803237208L80.38235294117646,140.5514624978357L74.47058823529412,142.23118329116468L68.55882352941177,140.51816323453028L50.8235294117647,140.5015136028775L44.911764705882355,150.5870279765196L39,186.81889685717954Z" fill="rgb(218, 54, 51)"/>
+                    </svg>
+                </div>
+            </section>
             <section class="habits">
                 <h2 class="field wrap">
                     <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16">
                         <path fill-rule="evenodd" d="M8 1.5c-2.363 0-4 1.69-4 3.75 0 .984.424 1.625.984 2.304l.214.253c.223.264.47.556.673.848.284.411.537.896.621 1.49a.75.75 0 01-1.484.211c-.04-.282-.163-.547-.37-.847a8.695 8.695 0 00-.542-.68c-.084-.1-.173-.205-.268-.32C3.201 7.75 2.5 6.766 2.5 5.25 2.5 2.31 4.863 0 8 0s5.5 2.31 5.5 5.25c0 1.516-.701 2.5-1.328 3.259-.095.115-.184.22-.268.319-.207.245-.383.453-.541.681-.208.3-.33.565-.37.847a.75.75 0 01-1.485-.212c.084-.593.337-1.078.621-1.489.203-.292.45-.584.673-.848.075-.088.147-.173.213-.253.561-.679.985-1.32.985-2.304 0-2.06-1.637-3.75-4-3.75zM6 15.25a.75.75 0 01.75-.75h2.5a.75.75 0 010 1.5h-2.5a.75.75 0 01-.75-.75zM5.75 12a.75.75 0 000 1.5h4.5a.75.75 0 000-1.5h-4.5z"/>
                     </svg>
                     Recent coding habits
-                    <small class="h-details">(computed from last 97 commits)</small>
+                    <small class="h-details">(computed from last 98 commits)</small>
                 </h2>
                 <div class="row">
                     <ul class="facts">
@@ -1626,7 +1739,7 @@
                             <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16">
                                 <path fill-rule="evenodd" d="M10.5 7.75a2.5 2.5 0 11-5 0 2.5 2.5 0 015 0zm1.43.75a4.002 4.002 0 01-7.86 0H.75a.75.75 0 110-1.5h3.32a4.001 4.001 0 017.86 0h3.32a.75.75 0 110 1.5h-3.32z"/>
                             </svg>
-                            2639 Commits
+                            2640 Commits
                         </div>
                         <div class="field">
                             <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16">
@@ -1730,12 +1843,6 @@
                                     </svg>
                                     455 MB used
                                 </div>
-                                <div class="field ">
-                                    <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16">
-                                        <path fill-rule="evenodd" d="M2.75 1.5a.25.25 0 00-.25.25v12.5c0 .138.112.25.25.25h10.5a.25.25 0 00.25-.25V4.664a.25.25 0 00-.073-.177l-2.914-2.914a.25.25 0 00-.177-.073H2.75zM1 1.75C1 .784 1.784 0 2.75 0h7.586c.464 0 .909.184 1.237.513l2.914 2.914c.329.328.513.773.513 1.237v9.586A1.75 1.75 0 0113.25 16H2.75A1.75 1.75 0 011 14.25V1.75zm7 1.5a.75.75 0 01.75.75v1.5h1.5a.75.75 0 010 1.5h-1.5v1.5a.75.75 0 01-1.5 0V7h-1.5a.75.75 0 010-1.5h1.5V4A.75.75 0 018 3.25zm-3 8a.75.75 0 01.75-.75h4.5a.75.75 0 010 1.5h-4.5a.75.75 0 01-.75-.75z"/>
-                                    </svg>
-                                    1.20m added, 686k removed
-                                </div>
                             </section>
                             <section>
                                 <div class="field">
@@ -1769,7 +1876,7 @@
             </section>
             <footer>
                 <span>These metrics include private contributions</span>
-                <span>Last updated 18 Aug 2022, 15:49:06  with lowlighter/metrics@3.27.0</span>
+                <span>Last updated 18 Aug 2022, 15:51:02  with lowlighter/metrics@3.27.0</span>
             </footer>
         </div>
         <div xmlns="http://www.w3.org/1999/xhtml" id="metrics-end"></div>
