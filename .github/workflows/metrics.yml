@@ -17,7 +17,7 @@ jobs:
           token: ${{ secrets.METRICS_TOKEN }}
           
           base: activity, community, repositories, metadata
-          config_order: isocalendar, lines, habits, reactions, music, achievements
+          config_order: base, isocalendar, lines, habits, reactions, music, achievements
                     
           plugin_isocalendar: yes
           
