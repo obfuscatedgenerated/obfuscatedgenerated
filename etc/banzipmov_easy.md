@@ -1,0 +1,1 @@
+# [Click here to open the subscription prompt (for UBlock Origin, AdblockPlus and more](https://subscribe.adblockplus.org/?location=https://gist.githubusercontent.com/obfuscatedgenerated/0eaeea57f1e9579869d1c53cd2e7b86d/raw/bea81626e4f497b48f515e9254b4525eee395de4/banzipmov.txt&title=banzipmov)
