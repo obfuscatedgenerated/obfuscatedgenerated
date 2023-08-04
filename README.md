@@ -3,8 +3,8 @@
    <a href="https://github.com/obfuscatedgenerated?tab=followers">
       <img alt="Follow Count" src="https://img.shields.io/github/followers/obfuscatedgenerated.svg?style=social&label=Follow&maxAge=2592000&version=2" />
    </a>
-  <a href="https://github.com/obfuscatedgenerated/testreadme/actions/workflows/metrics.yml">
-    <img src="https://github.com/obfuscatedgenerated/testreadme/actions/workflows/metrics.yml/badge.svg" alt="metrics status"/>
+  <a href="https://github.com/obfuscatedgenerated/obfuscatedgenerated/actions/workflows/metrics.yml">
+    <img src="https://github.com/obfuscatedgenerated/obfuscatedgenerated/actions/workflows/metrics.yml/badge.svg" alt="metrics status"/>
   </a>
 </p>
 <p align="center"><img alt="Typing SVG" src="https://readme-typing-svg.herokuapp.com/?color=00FF00&vCenter=true&center=true&lines=Hi+There%21%3BI%27m+Ollie%2E%3BWelcome+to+my+GitHub+profile%21" /></p>
