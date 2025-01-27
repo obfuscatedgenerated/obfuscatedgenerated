@@ -29,8 +29,9 @@ jobs:
           plugin_languages_details: percentage, lines
           plugin_languages_categories: programming
           plugin_languages_sections: most-used
-          #plugin_languages_other: true
-          plugin_languages_indepth: yes
+          plugin_languages_other: true
+          #plugin_languages_indepth: yes #broken
+          plugin_languages_ignored: html, css, tex, less, dockerfile, makefile, qmake, lex, cmake, shell, gnuplot
         
           plugin_reactions: yes
           
