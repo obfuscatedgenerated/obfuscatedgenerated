@@ -31,7 +31,7 @@ jobs:
           plugin_languages_sections: most-used
           plugin_languages_other: true
           #plugin_languages_indepth: yes #broken
-          plugin_languages_ignored: html, css, tex, less, dockerfile, makefile, qmake, lex, cmake, shell, gnuplot
+          #plugin_languages_ignored: html, css, tex, less, dockerfile, makefile, qmake, lex, cmake, shell, gnuplot
           plugin_languages_limit: 20
         
           plugin_reactions: yes
