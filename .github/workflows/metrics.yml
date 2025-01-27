@@ -12,7 +12,7 @@ jobs:
     permissions:
       contents: write
     steps:
-      - uses: lowlighter/metrics@master
+      - uses: e-kotov/metrics@master
         with:
           token: ${{ secrets.METRICS_TOKEN }}
           
