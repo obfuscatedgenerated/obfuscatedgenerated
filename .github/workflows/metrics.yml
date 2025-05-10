@@ -12,7 +12,7 @@ jobs:
     permissions:
       contents: write
     steps:
-      - uses: obfuscatedgenerated/metrics@master
+      - uses: gh-metrics/metrics@v4-dev
         with:
           token: ${{ secrets.METRICS_TOKEN }}
 
