@@ -8,7 +8,8 @@
 
 <p align="center">
    <a href="https://github.com/ryo-ma/github-profile-trophy">
-      <img alt="Ryo-ma's GitHub Trophy Widget for obfuscatedgenerated" src="https://github-profile-trophy.vercel.app/?username=obfuscatedgenerated&row=2&theme=dracula&no-frame=true" />
+      <!--<img alt="Ryo-ma's GitHub Trophy Widget for obfuscatedgenerated" src="https://github-profile-trophy.vercel.app/?username=obfuscatedgenerated&row=2&theme=dracula&no-frame=true" />-->
+      <img alt="Ryo-ma's GitHub Trophy Widget for obfuscatedgenerated" src="https://stable-github-profile-trophy.vercel.app/?username=obfuscatedgenerated&row=2&theme=dracula&no-frame=true" />
    </a>
 </p>
 <p align="center">
