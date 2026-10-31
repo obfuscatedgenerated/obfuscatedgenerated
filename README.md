@@ -17,6 +17,6 @@
    </a>
 </p>
 <p align="center">
-   <a href="https://github.com/anuraghazra/github-readme-stats">
-      <img alt="Anurag's GitHub Stats Widget for obfuscatedgenerated" src="https://github-readme-stats.vercel.app/api?username=obfuscatedgenerated&theme=dracula" />
+   <a href="https://github.com/stats-organization/github-stats-extended">
+      <img alt="Anurag's GitHub Stats Widget for obfuscatedgenerated" src="https://github-stats-extended.vercel.app/api?username=obfuscatedgenerated&theme=dracula" />
 </p>
