@@ -10,13 +10,14 @@
    <img alt="View Count" src="https://komarev.com/ghpvc/?username=obfuscatedgenerated&color=lightgrey" />
 </p>
 
+
+<p align="center">
+   <a href="https://github.com/stats-organization/github-stats-extended">
+      <img alt="Anurag's GitHub Stats Widget for obfuscatedgenerated" src="https://github-stats-extended.vercel.app/api?username=obfuscatedgenerated&theme=dracula" />
+</p>
 <p align="center">
    <a href="https://github.com/ryo-ma/github-profile-trophy">
       <!--<img alt="Ryo-ma's GitHub Trophy Widget for obfuscatedgenerated" src="https://github-profile-trophy.vercel.app/?username=obfuscatedgenerated&row=2&theme=dracula&no-frame=true" />-->
       <img alt="Ryo-ma's GitHub Trophy Widget for obfuscatedgenerated" src="https://stable-github-profile-trophy.vercel.app/?username=obfuscatedgenerated&row=2&theme=dracula&no-frame=true" />
    </a>
-</p>
-<p align="center">
-   <a href="https://github.com/stats-organization/github-stats-extended">
-      <img alt="Anurag's GitHub Stats Widget for obfuscatedgenerated" src="https://github-stats-extended.vercel.app/api?username=obfuscatedgenerated&theme=dracula" />
 </p>
