@@ -3,6 +3,10 @@
 > Image subject to copyright. Reproduction or use without explicit permission is prohibited.
 
 <p align="center">
+   <img src="koi/koi.gif" width="256" alt="My koi" />
+</p>
+
+<p align="center">   
    <img alt="View Count" src="https://komarev.com/ghpvc/?username=obfuscatedgenerated&color=lightgrey" />
 </p>
 
