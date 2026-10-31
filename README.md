@@ -6,10 +6,11 @@
    <img src="koi/koi.gif" width="256" alt="My koi" />
 </p>
 
+---
+
 <p align="center">   
    <img alt="View Count" src="https://komarev.com/ghpvc/?username=obfuscatedgenerated&color=lightgrey" />
 </p>
-
 
 <p align="center">
    <a href="https://github.com/stats-organization/github-stats-extended">
